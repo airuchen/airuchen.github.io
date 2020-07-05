@@ -23,7 +23,7 @@ redirect_from:
 
 <p style="margin-left: 40px"><b>Intern ROS R&D</b>
 <br>ADLINK Technology
-<br style="margin-left: 30px"><a herf="https://github.com/Adlink-ROS/neuronbot2">ROS and ROS2 mobile robots design and development.</a> 
+<br><a herf="https://github.com/Adlink-ROS/neuronbot2">ROS and ROS2 mobile robots design and development.</a> 
 <br><i>September 2019 - February 2020</i></p>
 
 
