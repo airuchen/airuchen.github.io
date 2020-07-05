@@ -25,7 +25,7 @@ redirect_from:
 <br>ADLINK Technology
 <br>ROS and ROS2 mobile robots design and development. 
 <br><i>September 2019 - February 2020</i></p>
-    [![](../images/GitHub-Mark-32px.png)](https://github.com/Adlink-ROS/neuronbot2)
+  [![](../images/GitHub-Mark-32px.png)](https://github.com/Adlink-ROS/neuronbot2)
 
 Skills
 ======
