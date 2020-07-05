@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Real Yu-Wen page"
+title                    : "Yu-Wen Chen"
 title_separator          : "-"
 name                     : &name "Yu-Wen Chen"
 description              : &description "Hi, welcome. Have a seat. Let me introduce myself."
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yu-Wen Chen / airuchen"
   avatar           : "profile.jpg"
-  bio              : ""
+  bio              : "I'm a Master's student at RWTH-Aachen, and majoring in Systems and Automation." 
   # 2020.03 - now     EE M.Sc. @ RWTH-Aachen \n
   #                     2019.09 - 2020.02 Intern ROS R&D @ ADLINK \n
   #                     2018.02 - 2018.08 Exchange @ FH-Aachen \n
   #                     2014.06 - 2018.08 EE B.Sc. @ National Taiwan University of Science and Technology \n
-  location         : "Aachen, Germany"
+  location         : "RWTH-Aachen, Germany"
   employer         :
   pubmed           : 
   googlescholar    : 
