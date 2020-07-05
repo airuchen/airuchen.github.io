@@ -9,17 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* M.Sc. in Systems and Automation of EE, RWTH-Aachen, 2020 - now
-* Exchange Student in FH-Aachen, 2018
-* B.Sc. in Electrical Engineering, National Taiwan University of Science and Technology, 2014-2018
+## Education
 
-Work experience
-======
-* 2019 Sep - 2020 Feb: Intern ROS R&D
-  * ADLINK Technology
-  * Duties included: ROS and ROS2 [mobile robots](https://github.com/Adlink-ROS/neuronbot2) design and development. 
+<p style="margin-left: 40px"><b>M.Sc., Systems and Automation</b>
+<br>RWTH-Aachen, Germany
+<br><i>March 2020 - now</i></p>
+
+<p style="margin-left: 40px"><b>B.Sc., Electrical Engineering</b>
+<br>National Taiwan University of Science and Technology
+<br><i>June 2014 - June 2018</i></p>
+
+## Work experience
+
+<p style="margin-left: 40px"><b>Intern ROS R&D</b>
+<br>ADLINK Technology
+<br>ROS and ROS2 mobile robots design and development. 
+<br><i></i>September 2019 -February 2020</p>
+[![](../images/GitHub-Mark-32px.png)](https://github.com/Adlink-ROS/neuronbot2)
 
 Skills
 ======
