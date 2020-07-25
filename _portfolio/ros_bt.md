@@ -1,9 +1,9 @@
 ---
-title: "AWWWWWW"
-excerpt: "<img src='/images/aww.png'>"
+title: "Multiple robots inspection"
+excerpt: "<img src='/images/ros_bt.png'>"
 collection: portfolio
 ---
 
-## AWWWW
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hilXQiEUrk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src='/images/aww.png'>
+See the project in <a href="https://github.com/airuchen/multi_turtlebot3" target="_blank">Github</a>.
