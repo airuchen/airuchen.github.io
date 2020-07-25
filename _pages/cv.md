@@ -86,17 +86,17 @@ redirect_from:
 </p>
 
 ## Skills
-|Robotics|Programming Language|Operating system| Version Control|
-|:---:|:---:|:----:|:---:|
-|=========================|==========================|==========================|==========================|
-| ROS, ROS2 | C,Python, HTML, Kernel script | Linux | Git |
-
-<br>
-
-| Simulation and Analysis | Embedded System | Language |
+|Robotics|Operating system| Version Control|
 |:---:|:---:|:---:|
-|=========================|==========================|====================================================|
-| Matlab, Simulink | Arduino, Raspberry pi | Mandarin (Native), English(Fluent), German(A1) 
+| ROS, ROS2  | Linux | Git |
+
+| Programming Language | Simulation and Analysis |
+|:---:|:---:|
+| C,Python, HTML, Kernel script | Matlab, Simulink |
+
+| Embedded System | Language |
+|:---:|:---:|
+| Arduino, Raspberry pi | Mandarin (Native), English(Fluent), German(A1) 
 
 # Know more about me
 
