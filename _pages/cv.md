@@ -30,9 +30,9 @@ redirect_from:
 <br><b>ROS R&D Intern </b>
 <br><i>Sep. 2019 - Feb. 2020</i>
 <ul>
-  <li>ROS, ROS2 robot design, prototype, implementation, and documentation</li>
-  <li>Mobile robot inspection with ROS2 behavior tree</li>
-  <li>ROS multiple-robots inspection</li>
+  <li><a href="https://github.com/Adlink-ROS/neuronbot2/tree/eloquent-devel">ROS, ROS2 robot design, prototype, implementation, and documentation</a></li>
+  <li><a href="https://github.com/airuchen/BT_ros2">Mobile robot inspection with ROS2 behavior tree</a></li>
+  <li><a href="https://github.com/airuchen/multi_turtlebot3">ROS multiple-robots inspection</a></li>
 </ul>
 </p>
 
