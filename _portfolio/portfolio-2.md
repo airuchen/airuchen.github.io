@@ -4,6 +4,6 @@ excerpt: "<br/><iframe width="560" height="315" src="https://www.youtube.com/emb
 collection: portfolio
 ---
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=rmnd1CNzhs8"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rmnd1CNzhs8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 See the project in <a href="https://github.com/airuchen/multi_turtlebot3" target="_blank">Github</a>.
