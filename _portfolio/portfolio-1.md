@@ -8,7 +8,9 @@ Appreciate all my colleagues in ARPG of ADLINK. <br/><img src='/images/neuronbot
 collection: portfolio
 ---
 
-![](../images/neuronbot2.png)
+{% include base_path %}
+
+![](/images/neuronbot2.png)
 
 NeuronBot2 is the main task of mine as an intern. It is the latest version of NeuronBot made by ADLINK, which fully supports ROS1 and ROS2. 
 
