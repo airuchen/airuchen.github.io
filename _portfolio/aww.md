@@ -6,4 +6,4 @@ collection: portfolio
 
 ## AWWWW
 
-<img src='/images/aww.png'>
+<img src='https://airuchen.github.io//images/aww.png'>
