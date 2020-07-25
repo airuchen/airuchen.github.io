@@ -16,4 +16,4 @@ From this project, I learned about how a project is processed, how to negotiate 
 
 Appreciate all my colleagues in ARPG of ADLINK.
 
-See the project in [Github](https://github.com/Adlink-ROS/neuronbot2/tree/eloquent-devel) .
+See the project in <a href="https://github.com/Adlink-ROS/neuronbot2/tree/eloquent-devel" target="_blank">Github</a>.
