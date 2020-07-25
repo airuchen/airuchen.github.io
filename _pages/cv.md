@@ -86,8 +86,9 @@ redirect_from:
 </p>
 
 ## Skills
+
 | Robotics | Operating system | Version Control |
-|:---:|:---:|:---:|
+|:-----:|:-----:|:-----:|
 | ROS, ROS2  | Linux | Git |
 
 | Programming Language | Simulation and Analysis |
