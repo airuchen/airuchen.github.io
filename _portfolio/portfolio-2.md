@@ -1,6 +1,6 @@
 ---
 title: "Multiple robots inspection"
-excerpt: "<br/><iframe width="560" height="315" src="https://www.youtube.com/embed/rmnd1CNzhs8"></iframe>"
+excerpt: "<br/><img src='/images/multibot_inspection.png'>"
 collection: portfolio
 ---
 
