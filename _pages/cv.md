@@ -103,7 +103,7 @@ redirect_from:
 
 | Embedded System | Language |
 |:---:|:---:|
-| NUC, IPC, Arduino, Raspberry pi | Mandarin (Native), English(Fluent), German(B1), Japanese(A2)
+| NUC, IPC, Arduino, Raspberry pi | Mandarin (Native), English(Fluent), German(B1), Japanese(A2) |
 
 # Know more about me
 
