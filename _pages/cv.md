@@ -25,7 +25,7 @@ redirect_from:
 </p>
 
 ## Experience
-<p style="margin-left: 20px"><b style="font-size: 1.25em">ADLINK Technology - Advanced Robot Platform Group</b>
+<p style="margin-left: 20px"><b style="font-size: 1.25em">IfU Cybernetics Lab - Mobile Robotic Group</b>
 <br><b>Student assistant in UrbANT project </b>
 <br><i>Sep. 2020 - now</i>
 <ul>
