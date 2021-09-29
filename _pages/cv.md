@@ -32,6 +32,7 @@ redirect_from:
   <li><a href="https://urbant.de/en/" target="_blank">UrbANT project </a></li>
   <li><a href="https://cybernetics-lab.de/research-groups/mobilerob" target="_blank">IfU Cybernetics Lab - Mobile Robotic Group  </a></li>
 </ul>
+</p>
 
 <p style="margin-left: 20px"><b style="font-size: 1.25em">ADLINK Technology - Advanced Robot Platform Group</b>
 <br><b>ROS R&D Intern </b>
