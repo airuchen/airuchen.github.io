@@ -106,6 +106,7 @@ redirect_from:
 |:---:|:---:|
 | NUC, IPC, Arduino, Raspberry pi | Mandarin (Native), English(Fluent), German(B1), Japanese(A2) |
 
+
 # Know more about me
 
 <a href="/files/Yu-Wen_Chen_resume.pdf" download>Download my resume</a>
