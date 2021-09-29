@@ -25,6 +25,12 @@ redirect_from:
 </p>
 
 ## Experience
+<p style="margin-left: 20px"><b style="font-size: 1.25em">ADLINK Technology - Advanced Robot Platform Group</b>
+<br><b>Student assistant in UrbANT project </b>
+<br><i>Sep. 2020 - now</i>
+<ul>
+  <li><a href="https://urbant.de/en/" target="_blank">UrbANT project </a></li>
+</ul>
 
 <p style="margin-left: 20px"><b style="font-size: 1.25em">ADLINK Technology - Advanced Robot Platform Group</b>
 <br><b>ROS R&D Intern </b>
@@ -97,10 +103,8 @@ redirect_from:
 
 | Embedded System | Language |
 |:---:|:---:|
-| Arduino, Raspberry pi | Mandarin (Native), English(Fluent), German(A1) 
+| NUC, IPC, Arduino, Raspberry pi | Mandarin (Native), English(Fluent), German(B1), Japanese(A2)
 
 # Know more about me
 
-One-page Resume: [Download](http://academicpages.github.io/files/yu-wen_resume.pdf)
-
-Two-page CV: [Download](http://academicpages.github.io/files/yu-wen_cv.pdf)
+<a href="/files/Yu-Wen_Chen_resume.pdf" download>Download my resume</a>

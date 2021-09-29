@@ -10,9 +10,9 @@ redirect_from:
 
 Oh! Hi! Didn't notice you there.
 
-I'm Yu-Wen Chen, from Taiwan. Glad to see you on this page. You can find more information about me here.
+I'm Wen, from Taiwan. Glad to see you on this page. You can find more information about me here.
 
-I like memes, skateboard, coffee, and beer.
+I like memes, skateboarding, surfing, coffee, and beer.
 
 <img src='../images/hackerme.jpg'>
 
