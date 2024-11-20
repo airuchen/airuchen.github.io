@@ -9,6 +9,8 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
   </head>
 
   <body>
@@ -27,5 +29,12 @@ layout: compress
 
     {% include scripts.html %}
 
+    <script>
+      AOS.init({
+        duration: 1000, // Animation duration in milliseconds
+        easing: 'ease-in-out', // Easing type
+        once: true // Animation should happen only once while scrolling down
+      });
+    </script>
   </body>
 </html>

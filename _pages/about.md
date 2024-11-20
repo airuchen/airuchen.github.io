@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+<div data-aos="fade-left">
+
 Oh! Hi! Didn't notice you there.
 
 I'm Wen, from Taiwan. Glad to see you on this page. You can find more information about me here.
 
 I like memes, skateboarding, surfing, coffee, and beer.
+</div>
 
 <img src='../images/hackerme.jpg'>
 
